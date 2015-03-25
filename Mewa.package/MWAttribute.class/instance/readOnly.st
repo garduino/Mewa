@@ -1,3 +1,3 @@
 configuration
 readOnly
-	readOnly _ true
+	readOnly := true

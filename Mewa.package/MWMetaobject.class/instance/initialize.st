@@ -1,3 +1,3 @@
 initialization
 initialize
-	attributes _ OrderedCollection new
+	attributes := OrderedCollection new

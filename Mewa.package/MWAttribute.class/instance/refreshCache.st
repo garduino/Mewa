@@ -1,3 +1,3 @@
 caching
 refreshCache
-	cache _ self value
+	cache := self value

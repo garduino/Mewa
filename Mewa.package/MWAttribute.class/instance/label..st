@@ -1,3 +1,3 @@
 configuration
 label: aString
-	label _ aString
+	label := aString

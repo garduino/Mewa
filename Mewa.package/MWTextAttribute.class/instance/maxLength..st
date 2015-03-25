@@ -1,3 +1,3 @@
 configuration
 maxLength: aNumber
-	maxLength _ aNumber
+	maxLength := aNumber

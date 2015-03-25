@@ -1,4 +1,4 @@
 configuration
 baseClass: aDomainClass formatBlock: aBlock
-	baseClass _ aDomainClass.
+	baseClass := aDomainClass.
 	self formatWith: aBlock

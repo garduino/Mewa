@@ -1,3 +1,3 @@
 accessing
 selector: aSelector
-	selector _ aSelector
+	selector := aSelector

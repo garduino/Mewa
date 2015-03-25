@@ -1,3 +1,3 @@
 accessing
 baseobject: anObject
-	baseobject _ anObject
+	baseobject := anObject

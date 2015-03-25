@@ -1,8 +1,9 @@
 {
 	"class" : {
-		 },
+		"metaobject:" : "GermanArduino 3/25/2015 15:15",
+		"model:" : "GermanArduino 3/25/2015 15:16" },
 	"instance" : {
-		"initializeWith:" : "al 11/7/2003 14:02",
+		"initializeWith:" : "GermanArduino 3/25/2015 15:22",
 		"isViewer" : "al 5/16/2004 15:05",
 		"metaobject" : "al 11/7/2003 13:56",
 		"style" : "al 11/7/2003 14:36",

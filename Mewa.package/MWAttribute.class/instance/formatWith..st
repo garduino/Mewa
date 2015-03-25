@@ -1,3 +1,3 @@
 configuration
 formatWith: aBlock
-	itemFormatBlock _ aBlock
+	itemFormatBlock := aBlock

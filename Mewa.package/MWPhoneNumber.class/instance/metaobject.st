@@ -1,7 +1,7 @@
 accessing
 metaobject
 	| metaobject |
-	metaobject _ MWMetaobject for: self.
+	metaobject := MWMetaobject for: self.
 
 	metaobject textAttribute: #type do: [ :attribute |
 		attribute

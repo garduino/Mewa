@@ -1,3 +1,3 @@
 accessing
 interests: anObject
-	interests _ anObject
+	interests := anObject
