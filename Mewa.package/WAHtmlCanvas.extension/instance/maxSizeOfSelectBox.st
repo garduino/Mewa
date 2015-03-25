@@ -1,0 +1,3 @@
+*Mewa
+maxSizeOfSelectBox
+	^5
