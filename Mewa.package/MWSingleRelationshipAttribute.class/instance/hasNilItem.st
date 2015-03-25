@@ -1,0 +1,3 @@
+testing
+hasNilItem
+	^nilItemString notNil

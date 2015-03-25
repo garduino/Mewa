@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"age" : "al 10/29/2003 11:14",
+		"asString" : "al 10/7/2004 10:36",
+		"birthday" : "al 10/21/2003 16:20",
+		"birthday:" : "al 10/21/2003 16:20",
+		"father" : "al 10/20/2003 11:57",
+		"father:" : "al 10/20/2003 11:57",
+		"firstname" : "al 10/21/2003 15:23",
+		"firstname:" : "al 10/21/2003 15:23",
+		"initialize" : "al 11/9/2003 16:47",
+		"interests" : "al 11/9/2003 16:47",
+		"interests:" : "al 11/9/2003 16:48",
+		"male" : "al 10/20/2003 12:06",
+		"male:" : "al 10/20/2003 12:06",
+		"metaobject" : "gsa 6/22/2006 10:43",
+		"mother" : "al 10/20/2003 11:58",
+		"mother:" : "al 10/20/2003 11:58",
+		"phoneNumbers" : "al 10/24/2003 11:08",
+		"phoneNumbers:" : "al 10/24/2003 11:08",
+		"sex" : "al 10/20/2003 19:29" } }

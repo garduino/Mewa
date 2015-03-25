@@ -1,0 +1,17 @@
+{
+	"category" : "Mewa-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"renderer",
+		"validationErrors",
+		"subForm",
+		"multipleAttributeEditors" ],
+	"name" : "MWEditorVisitor",
+	"pools" : [
+		 ],
+	"super" : "MWVisitor",
+	"type" : "normal" }

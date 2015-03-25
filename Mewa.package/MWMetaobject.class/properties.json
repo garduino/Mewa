@@ -1,0 +1,15 @@
+{
+	"category" : "Mewa-Metaobject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"baseobject",
+		"attributes" ],
+	"name" : "MWMetaobject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

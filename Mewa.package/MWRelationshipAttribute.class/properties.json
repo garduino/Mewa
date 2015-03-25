@@ -1,0 +1,15 @@
+{
+	"category" : "Mewa-Metaobject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"itemCollectionBlock",
+		"linkAction" ],
+	"name" : "MWRelationshipAttribute",
+	"pools" : [
+		 ],
+	"super" : "MWAttribute",
+	"type" : "normal" }

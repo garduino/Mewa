@@ -1,0 +1,14 @@
+{
+	"category" : "Mewa-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MWModel" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MWExampleSession",
+	"pools" : [
+		 ],
+	"super" : "WASession",
+	"type" : "normal" }

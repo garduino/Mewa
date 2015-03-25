@@ -1,0 +1,3 @@
+testing
+isMultipleAttribute
+	^true

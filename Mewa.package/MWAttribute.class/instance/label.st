@@ -1,0 +1,3 @@
+configuration
+label
+	^label

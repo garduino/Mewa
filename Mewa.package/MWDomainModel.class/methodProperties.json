@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPerson:" : "al 10/20/2003 12:07",
+		"femalePersons" : "al 10/20/2003 12:08",
+		"initialize" : "al 10/20/2003 18:36",
+		"malePersons" : "al 10/20/2003 19:30",
+		"persons" : "al 10/20/2003 12:07",
+		"removePerson:" : "al 11/7/2003 15:45" } }

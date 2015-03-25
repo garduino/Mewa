@@ -1,0 +1,3 @@
+accessing
+multipleAttributeEditors
+	^multipleAttributeEditors

@@ -1,0 +1,14 @@
+{
+	"category" : "Mewa-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MWListItemViewer",
+	"pools" : [
+		 ],
+	"super" : "MWViewerVisitor",
+	"type" : "normal" }

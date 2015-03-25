@@ -1,0 +1,14 @@
+{
+	"category" : "Mewa-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"renderer" ],
+	"name" : "MWViewerVisitor",
+	"pools" : [
+		 ],
+	"super" : "MWVisitor",
+	"type" : "normal" }

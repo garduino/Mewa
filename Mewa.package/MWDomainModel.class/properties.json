@@ -1,0 +1,14 @@
+{
+	"category" : "Mewa-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"persons" ],
+	"name" : "MWDomainModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

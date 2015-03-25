@@ -1,0 +1,15 @@
+{
+	"category" : "Mewa-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"batcher",
+		"children" ],
+	"name" : "MWExample",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

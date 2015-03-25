@@ -1,0 +1,20 @@
+{
+	"category" : "Mewa-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"firstname",
+		"male",
+		"birthday",
+		"father",
+		"mother",
+		"interests",
+		"phoneNumbers" ],
+	"name" : "MWPerson",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Mewa-Components",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attribute",
+		"components" ],
+	"name" : "MWMultipleAttributeContainer",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

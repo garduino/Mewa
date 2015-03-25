@@ -1,0 +1,3 @@
+initialization
+initialize
+	attributes _ OrderedCollection new

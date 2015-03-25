@@ -1,0 +1,3 @@
+visiting
+visitMailAttribute: aMailAttribute
+	self visitTextAttribute: aMailAttribute

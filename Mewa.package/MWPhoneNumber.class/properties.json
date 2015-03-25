@@ -1,0 +1,15 @@
+{
+	"category" : "Mewa-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"number" ],
+	"name" : "MWPhoneNumber",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

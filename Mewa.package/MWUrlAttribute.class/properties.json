@@ -1,0 +1,14 @@
+{
+	"category" : "Mewa-Metaobject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MWUrlAttribute",
+	"pools" : [
+		 ],
+	"super" : "MWTextAttribute",
+	"type" : "normal" }

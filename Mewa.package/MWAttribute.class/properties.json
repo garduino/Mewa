@@ -1,0 +1,22 @@
+{
+	"category" : "Mewa-Metaobject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"metaObject",
+		"cache",
+		"label",
+		"validationRules",
+		"itemFormatBlock",
+		"readOnly",
+		"hidden",
+		"formCssClass" ],
+	"name" : "MWAttribute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Mewa-Metaobject",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MWTimeAttribute",
+	"pools" : [
+		 ],
+	"super" : "MWAttribute",
+	"type" : "normal" }

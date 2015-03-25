@@ -1,0 +1,3 @@
+visiting
+visitTimeAttribute: aTimeAttribute
+	self visitTextAttribute: aTimeAttribute
