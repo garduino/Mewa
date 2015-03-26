@@ -1,3 +1,3 @@
 configuration
 hide
-	hidden _ true
+	hidden := true

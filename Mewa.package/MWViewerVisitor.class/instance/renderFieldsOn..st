@@ -1,6 +1,6 @@
 rendering
 renderFieldsOn: html
-	renderer _ html.
+	renderer := html.
 	self metaobject accept: self
 	
 	

@@ -7,11 +7,19 @@ renderContentOn: html
 		batcher batch do: [ :viewer | html tableRow: [
 			html render: viewer.
 			html tableData: [
-				html
+				"html
 					anchorWithAction: [ self edit: viewer metaobject baseobject ]
 					text: 'edit'; space;
 					anchorWithAction: [ self delete: viewer metaobject baseobject ]
-					text: 'delete' ] ] ].
+					text: 'delete' "
+					
+					html
+					anchor: [ self edit: viewer metaobject baseobject ];
+					
+					anchor: [ self delete: viewer metaobject baseobject ]
+					
+					
+					] ] ].
 		"html attributeAt: #align put: #center."
 		"html tableRowWith: batcher span: 8" 
 		html tableRow: batcher].
